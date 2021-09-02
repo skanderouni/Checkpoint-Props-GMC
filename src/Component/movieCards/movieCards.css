@@ -2,8 +2,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .main_card {
@@ -180,4 +178,11 @@ button:hover {
   to {
     -webkit-transform: rotate(359deg);
   }
+}
+.help {
+  margin: 2%;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }

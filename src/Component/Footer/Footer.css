@@ -158,14 +158,7 @@
     top: 19px;
   }
 }
-body {
-  background: #eeeef5;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
+
 body .socials {
   position: fixed;
   display: block;

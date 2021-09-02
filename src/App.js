@@ -1,7 +1,7 @@
 import "./App.css";
-import Moviecard from "./movieCards/movieCard";
-import Footer from "./Footer/Footer";
-import Navbar from "./Navbar/Navbar";
+import Moviecard from "./Component/movieCards/movieCard";
+import Footer from "./Component/Footer/Footer";
+import Navbar from "./Component/Navbar/Navbar";
 
 function App() {
   return (
